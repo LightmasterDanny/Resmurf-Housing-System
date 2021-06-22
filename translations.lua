@@ -65,3 +65,26 @@ Lenguage["FI"] = {
     ["missingTheAmount"] = "Sinun täytyy asettaa summa.",
     ["onlyNumbers"] = "Voit käyttää vain numeroita!"
 }
+
+Lenguage["FR"] = {
+    ["noMoney"] = "Vous n'avez pas assez d'argent pour acheter cette propriété.",
+    ["notForSale"] = "Cette propriété n'est pas à vendre.",
+    ["boughtProperty"] = "Félicitiations, vous venez d'acheter une propriété!",
+    ["intType"] = "Type d'intérieur:",
+    ["interact"] = "pour entrer",
+    ["interact2"] = "pour acheter",
+    ["interact3"] = "pour quitter",
+    ["interact4"] = "pour revendre",
+    ["press"] = "Appuyer sur",
+    ["fee"] = "Frais: ",
+    ["locked"] = "Vous avez verrouillé la propriété",
+    ["unlocked"] = "Vous avez deverrouillé la propriété",
+    ["notOwnerOrNoKeys"] = "Vous n'êtes pas le propriétaire de cette propriété ou vous n'avez pas les clés.",
+    ["islocked"] = "La porte est fermée.",
+    ["insideInterior"] = "Vous devez être à l'interieur de la propriété.",
+    ["onlyBusiness"] = "Cette propriété doit être un bureau.",
+    ["noNegativeFee"] = "Vous ne pouvez pas utiliser de valeurs négatives.",
+    ["missingTheAmount"] = "Vous devez entrer le montant.",
+    ["onlyNumbers"] = "Vous ne pouvez utiliser que des nombres!",
+    ["noName"] = "Vous devez entrer un nom."   
+}
